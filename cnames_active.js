@@ -194,6 +194,7 @@ var cnames_active = {
   "ankareport": "ankareport.github.io",
   "ankit": "ankit-chaubey.github.io/ankit",
   "anna": "anna-wro.github.io/anna",
+  "anotesgame": "a-notes-game.pages.dev",
   "annotate": "taitems.github.io/web-pdf-annotation", // noCF? (don´t add this in a new PR)
   "annoyingmouse": "annoyingmouse.github.io", // noCF? (don´t add this in a new PR)
   "antalya": "jsantalya.github.io",
