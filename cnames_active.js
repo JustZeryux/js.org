@@ -200,6 +200,7 @@ var cnames_active = {
   "antdocs": "cname-china.vercel-dns.com", // noCF
   "antropodigital": "antropodigital.github.io/CirculodeEstudio",
   "antwar": "antwarjs.github.io/antwar",
+  "anotesgame": "https://github.com/JustZeryux/A-Notes-Game".
   "anukul": "anukul.github.io",
   "aoi": "aoijs.github.io/website",
   "aom": "scarych.github.io/aom",
